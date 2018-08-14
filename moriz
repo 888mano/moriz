@@ -1,0 +1,5 @@
+without jdk file we cant do anything in maven
+without jdk we cant create .jar files
+pom.xml file is very important to the maven
+without pom file we cant debugging the errors
+
